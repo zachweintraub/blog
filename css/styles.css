@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-color: #ecd6fc;
+  color: #0a0d60;
+}
+
+.about {
+  font-family: cursive;
+  font-weight: bold;
+
+}
+.new-post {
+  border-style: dashed;
+  border-width: thick;
+  border-color: #0a0d60;
+}
+
+.old-post {
+  border-style: solid;
+  border-width: medium;
+  border-color: #0a0d60;
+
+}
+.emphasis {
+  font-style: italic;
+  font-weight: bolder;
+  color: red;
+}
